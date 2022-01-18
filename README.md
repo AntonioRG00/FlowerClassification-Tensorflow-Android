@@ -1,4 +1,4 @@
-# TensorFlow Lite image classification Android example application
+# Image classification w/TensorFlow Lite & Android
 
 ## Overview
 
