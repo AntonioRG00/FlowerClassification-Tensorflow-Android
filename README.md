@@ -15,4 +15,4 @@ You can also change 'flavorDimensions' (getIsDefault().set(false) to true) to sw
 
 ## What does classify?
 
-It Classify 5 types of flowers (Amapolas, Hiedras, Jazmínes, Orquídeas and Rosas)
+The actual model ([Flower Classification.zip](https://github.com/AntonioRG00/FlowerClassification-Tensorflow-Android/files/7899892/Flower.Classification.zip)) is very poor as it can only classify 5 types of flowers (Poppys, Ivys, Jasmines, Orchids and Roses) you can download it, import the file to https://teachablemachine.withgoogle.com/ and add more examples. To import the new model to Android you just have to replace the files exported from Teachale Machine on assets/converted_tflite_quantized.
